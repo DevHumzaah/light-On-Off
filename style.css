@@ -1,0 +1,53 @@
+*{
+    margin:0;
+    padding: 0;
+
+}
+body{
+    font-family: 'Times New Roman', Times, serif;
+    background: gray;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: azure;
+}
+
+.main-heading{
+    text-align: center;
+    margin-top: 150px;
+
+}
+.main-heading h2{
+    margin-bottom: 20px;
+}
+h1{
+    color: black;
+}
+img{
+    width: 100px;
+    height: 100px;
+    opacity: 1px
+}
+button{
+    display: inline-block;
+    size: 100px;
+    padding: 20px;
+    cursor: pointer;
+    background-color: orange;
+    color: azure;
+    text-align: center;
+    text-decoration:solid;
+    display: inline-block;
+    border-radius: 3px;
+    transition: 400ms;
+    font-size: 16px;
+    font-weight: bold;
+    text-decoration: white;
+    z-index: 1000000;
+   
+    
+}
+img{
+    margin: 20px;
+    padding: 20px;
+}
